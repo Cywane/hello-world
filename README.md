@@ -1,2 +1,3 @@
 # hello-world
-new git hub rep
+I'm Cyrille
+I'm Human and you ?
